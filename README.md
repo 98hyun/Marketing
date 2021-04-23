@@ -13,11 +13,13 @@ TK-project는 Translation-KaggleNotebook의 줄임말로 영어로 된 notebook�
 <details><summary>펼쳐보기</summary>
 <blockquote>
 <!-- block content -->
-<details><summary>Joshua Swords</summary>
+<details><summary>Joshua Swords(Josh)</summary>
 <blockquote>
 <li><a href="https://www.kaggle.com/joshuaswords/tps-eda-model-march-2020">TPS EDA & Model [March 2020]</a></li>
 <li><a href="https://www.kaggle.com/joshuaswords/data-visualization-clustering-mall-data">
 Data Visualization & Clustering (Mall Data)</a></li>
+<li><a href="https://www.kaggle.com/joshuaswords/awesome-hr-data-visualization-prediction">
+HR Data visualization, analysis, and prediction</a></li>
 </blockquote>
 </details>
 <!-- endblock -->
